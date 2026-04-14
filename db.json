@@ -1,0 +1,7 @@
+[
+  {"id":1,"product":"iPhone 15","category":"Electronics","quantity":2,"unit_price":999.00,"total_amount":1998.00},
+  {"id":2,"product":"MacBook Pro","category":"Electronics","quantity":1,"unit_price":1999.00,"total_amount":1999.00},
+  {"id":3,"product":"Samsung Galaxy","category":"Electronics","quantity":3,"unit_price":899.00,"total_amount":2697.00},
+  {"id":4,"product":"Office Chair","category":"Furniture","quantity":5,"unit_price":299.00,"total_amount":1495.00},
+  {"id":5,"product":"Standing Desk","category":"Furniture","quantity":2,"unit_price":599.00,"total_amount":1198.00}
+]
