@@ -1,3 +1,158 @@
-
- {"items" : [{"id":1,"product":"iPhone 15","category":"Electronics","quantity":2,"total_amount":18.00},{"id":2,"product":"iPhone 16","category":"Electronics","quantity":2,"total_amount":198.00},{"id":3,"product":"iPhone 17","category":"Electronics","quantity":2,"total_amount":8.00},{"id":4,"product":"iPhone 1","category":"Electronics","quantity":2,"total_amount":1998.00}]}
-  
+{
+  "meta": {
+    "version": "1.0",
+    "generated_at": "2026-04-17T12:00:00Z",
+    "container_id": "demo-retail-001",
+    "currency": "RUB"
+  },
+  "items": [
+    {
+      "id": 1,
+      "product": "iPhone 15 Pro 256GB",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "brand": "Apple",
+      "quantity": 2,
+      "unit_price": 89990.00,
+      "total_amount": 179980.00,
+      "order_date": "2026-04-10",
+      "customer_segment": "Premium",
+      "channel": "Online",
+      "margin_percent": 12.5
+    },
+    {
+      "id": 2,
+      "product": "MacBook Air M3 15\"",
+      "category": "Electronics",
+      "subcategory": "Laptops",
+      "brand": "Apple",
+      "quantity": 1,
+      "unit_price": 124990.00,
+      "total_amount": 124990.00,
+      "order_date": "2026-04-11",
+      "customer_segment": "Business",
+      "channel": "Offline",
+      "margin_percent": 15.2
+    },
+    {
+      "id": 3,
+      "product": "AirPods Pro 2 (USB-C)",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "Apple",
+      "quantity": 5,
+      "unit_price": 24990.00,
+      "total_amount": 124950.00,
+      "order_date": "2026-04-12",
+      "customer_segment": "Mass",
+      "channel": "Marketplace",
+      "margin_percent": 22.0
+    },
+    {
+      "id": 4,
+      "product": "Samsung Galaxy S24 Ultra",
+      "category": "Electronics",
+      "subcategory": "Smartphones",
+      "brand": "Samsung",
+      "quantity": 3,
+      "unit_price": 94990.00,
+      "total_amount": 284970.00,
+      "order_date": "2026-04-13",
+      "customer_segment": "Premium",
+      "channel": "Online",
+      "margin_percent": 10.8
+    },
+    {
+      "id": 5,
+      "product": "Xiaomi Robot Vacuum S10+",
+      "category": "Home Appliances",
+      "subcategory": "Smart Home",
+      "brand": "Xiaomi",
+      "quantity": 2,
+      "unit_price": 34990.00,
+      "total_amount": 69980.00,
+      "order_date": "2026-04-14",
+      "customer_segment": "Mass",
+      "channel": "Marketplace",
+      "margin_percent": 18.5
+    },
+    {
+      "id": 6,
+      "product": "Dyson V15 Detect Absolute",
+      "category": "Home Appliances",
+      "subcategory": "Vacuum Cleaners",
+      "brand": "Dyson",
+      "quantity": 1,
+      "unit_price": 64990.00,
+      "total_amount": 64990.00,
+      "order_date": "2026-04-14",
+      "customer_segment": "Premium",
+      "channel": "Offline",
+      "margin_percent": 14.0
+    },
+    {
+      "id": 7,
+      "product": "Apple Watch Series 9 GPS 45mm",
+      "category": "Electronics",
+      "subcategory": "Wearables",
+      "brand": "Apple",
+      "quantity": 4,
+      "unit_price": 42990.00,
+      "total_amount": 171960.00,
+      "order_date": "2026-04-15",
+      "customer_segment": "Premium",
+      "channel": "Online",
+      "margin_percent": 16.3
+    },
+    {
+      "id": 8,
+      "product": "Sony WH-1000XM5",
+      "category": "Electronics",
+      "subcategory": "Audio",
+      "brand": "Sony",
+      "quantity": 3,
+      "unit_price": 32990.00,
+      "total_amount": 98970.00,
+      "order_date": "2026-04-15",
+      "customer_segment": "Business",
+      "channel": "Corporate",
+      "margin_percent": 19.1
+    },
+    {
+      "id": 9,
+      "product": "iPad Air M2 11\" Wi-Fi 128GB",
+      "category": "Electronics",
+      "subcategory": "Tablets",
+      "brand": "Apple",
+      "quantity": 2,
+      "unit_price": 54990.00,
+      "total_amount": 109980.00,
+      "order_date": "2026-04-16",
+      "customer_segment": "Education",
+      "channel": "Online",
+      "margin_percent": 13.7
+    },
+    {
+      "id": 10,
+      "product": "Logitech MX Master 3S",
+      "category": "Accessories",
+      "subcategory": "Peripherals",
+      "brand": "Logitech",
+      "quantity": 10,
+      "unit_price": 8990.00,
+      "total_amount": 89900.00,
+      "order_date": "2026-04-16",
+      "customer_segment": "Business",
+      "channel": "Corporate",
+      "margin_percent": 25.4
+    }
+  ],
+  "aggregates": {
+    "total_orders": 10,
+    "total_quantity": 33,
+    "total_revenue": 1320670.00,
+    "avg_margin_percent": 16.75,
+    "top_category": "Electronics",
+    "top_channel": "Online"
+  }
+}
